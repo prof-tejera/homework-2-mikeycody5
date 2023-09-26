@@ -43,6 +43,6 @@ Deploy the application using Github Pages (https://github.com/prof-tejera/react-
 Edit this file (README.md) and complete the following:
 
 - URL to live application: 
-- What code editor are you using?
+- What code editor are you using? VS Code
 
 That is all!
